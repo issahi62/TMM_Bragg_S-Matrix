@@ -4,5 +4,5 @@ Transfer matrix formulation using Redheffer star,cascading &amp; s-matrix formul
 
 Name        | Output                                                                                                  |
 ------------|:-------------------------------------------------------------------------------------------------------:|
-Bragg grating |![Bragg]()          |
-                     |
+Bragg grating |![Bragg]()         |
+                     
